@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.elasticbeanstalk",
+    "\\deployment_screenshots",
+    "\\src",
+    "\\src\\util"
+  ],
+  "SelectedNode": "\\.elasticbeanstalk",
+  "PreviewInSolutionExplorer": false
+}
